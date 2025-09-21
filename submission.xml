@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ADJECTIVE SYSTEM "adjective.dtd">
+<root>
+  <ADJECTIVE position="attributive" morphology="normal" comment="&name;: basic form">
+    red
+  </ADJECTIVE>
+
+  <ADJECTIVE position="predicative" morphology="comparative" comment="&name;: comparison form">
+    smarter
+  </ADJECTIVE>
+
+  <ADJECTIVE morphology="superlative" comment="&name;: highest degree">
+    fastest
+  </ADJECTIVE>
+</root>
