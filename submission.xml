@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <POSTask>
-<TEXT><![CDATA[
+<TEXT>
 9:10 P.M. EST
 
 Mr. Speaker, Mr. Vice President, Members of Congress, my fellow Americans:
@@ -19,50 +18,50 @@ We live in a time of extraordinary change -- change that’s reshaping the way w
 America has been through big changes before -- wars and depression, the influx of new immigrants, workers fighting for a fair deal, movements to expand civil rights. Each time, there have been those who told us to fear the future; who claimed we could slam the brakes on change; who promised to restore past glory if we just got some group or idea that was threatening America under control. And each time, we overcame those fears. We did not, in the words of Lincoln, adhere to the “dogmas of the quiet past.” Instead we thought anew, and acted anew. We made change work for us, always extending America’s promise outward, to the next frontier, to more people. And because we did -- because we saw opportunity where others saw only peril -- we emerged stronger and better than before.
 
 What was true then can be true now. Our unique strengths as a nation -- our optimism and work ethic, our spirit of discovery, our diversity, our commitment to rule of law -- these things give us everything we need to ensure prosperity and security for generations to come. 
-]]></TEXT>
+</TEXT>
    <TAGS>
-    <ADJECTIVE id="A2" spans="193~198" text="final" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A3" spans="241~248" text="shorter" position="predicative" morphology="comparative" />
-    <ADJECTIVE id="A4" spans="285~290" text="antsy" position="predicative" morphology="normal" />
-    <ADJECTIVE id="A5" spans="517~520" text="low" position="predicative" morphology="normal" />
-    <ADJECTIVE id="A6" spans="557~569" text="constructive" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A7" spans="596~601" text="other" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A8" spans="629~633" text="last" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A9" spans="674~683" text="permanent" position="predicative" morphology="normal" />
-    <ADJECTIVE id="A10" spans="688~695" text="working" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A11" spans="755~765" text="bipartisan" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A12" spans="782~790" text="criminal" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A13" spans="1003~1014" text="traditional" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A14" spans="1151~1158" text="medical" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A15" spans="1281~1287" text="broken" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A16" spans="1371~1376" text="Equal" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A17" spans="1385~1390" text="equal" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A18" spans="1409~1413" text="Paid" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A19" spans="1445~1452" text="minimum" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A20" spans="1504~1515" text="hardworking" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A21" spans="1544~1549" text="right" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A22" spans="1615~1620" text="final" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A23" spans="1678~1682" text="next" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A24" spans="1712~1716" text="next" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A25" spans="1733~1737" text="next" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A26" spans="1813~1826" text="extraordinary" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A27" spans="1957~1964" text="amazing" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A28" spans="1965~1972" text="medical" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A29" spans="1997~2005" text="economic" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A30" spans="2030~2037" text="working" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A31" spans="2092~2098" text="remote" position="attributive" morphology="superlative" />
-    <ADJECTIVE id="A32" spans="2328~2331" text="big" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A33" spans="2385~2388" text="new" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A34" spans="2424~2428" text="fair" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A35" spans="2455~2460" text="civil" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A36" spans="2606~2610" text="past" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A37" spans="2660~2671" text="threatening" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A38" spans="2801~2806" text="quiet" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A39" spans="2934~2938" text="next" position="attributive" morphology="normal" />
-    <ADJECTIVE id="A40" spans="3056~3064" text="stronger" position="predicative" morphology="comparative" />
-    <ADJECTIVE id="A41" spans="3069~3075" text="better" position="predicative" morphology="comparative" />
-    <ADJECTIVE id="A42" spans="3099~3103" text="true" position="predicative" morphology="normal" />
-    <ADJECTIVE id="A43" spans="3116~3120" text="true" position="predicative" morphology="normal" />
-    <ADJECTIVE id="A44" spans="3130~3136" text="unique" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A2" spans="192~197" text="final" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A3" spans="240~247" text="shorter" position="predicative" morphology="comparative" />
+    <ADJECTIVE id="A4" spans="284~289" text="antsy" position="predicative" morphology="normal" />
+    <ADJECTIVE id="A5" spans="516~519" text="low" position="predicative" morphology="normal" />
+    <ADJECTIVE id="A6" spans="556~568" text="constructive" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A7" spans="595~600" text="other" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A8" spans="628~632" text="last" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A9" spans="673~682" text="permanent" position="predicative" morphology="normal" />
+    <ADJECTIVE id="A10" spans="687~694" text="working" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A11" spans="754~764" text="bipartisan" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A12" spans="781~789" text="criminal" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A13" spans="1002~1013" text="traditional" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A14" spans="1150~1157" text="medical" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A15" spans="1280~1286" text="broken" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A16" spans="1370~1375" text="Equal" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A17" spans="1384~1389" text="equal" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A18" spans="1408~1412" text="Paid" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A19" spans="1444~1451" text="minimum" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A20" spans="1503~1514" text="hardworking" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A21" spans="1543~1548" text="right" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A22" spans="1614~1619" text="final" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A23" spans="1677~1681" text="next" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A24" spans="1711~1715" text="next" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A25" spans="1732~1736" text="next" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A26" spans="1812~1825" text="extraordinary" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A27" spans="1956~1963" text="amazing" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A28" spans="1964~1971" text="medical" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A29" spans="1996~2004" text="economic" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A30" spans="2029~2036" text="working" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A31" spans="2091~2097" text="remote" position="attributive" morphology="superlative" />
+    <ADJECTIVE id="A32" spans="2327~2330" text="big" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A33" spans="2384~2387" text="new" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A34" spans="2423~2427" text="fair" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A35" spans="2454~2459" text="civil" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A36" spans="2605~2609" text="past" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A37" spans="2659~2670" text="threatening" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A38" spans="2800~2805" text="quiet" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A39" spans="2933~2937" text="next" position="attributive" morphology="normal" />
+    <ADJECTIVE id="A40" spans="3055~3063" text="stronger" position="predicative" morphology="comparative" />
+    <ADJECTIVE id="A41" spans="3068~3074" text="better" position="predicative" morphology="comparative" />
+    <ADJECTIVE id="A42" spans="3098~3102" text="true" position="predicative" morphology="normal" />
+    <ADJECTIVE id="A43" spans="3115~3119" text="true" position="predicative" morphology="normal" />
+    <ADJECTIVE id="A44" spans="3129~3135" text="unique" position="attributive" morphology="normal" />
   </TAGS>
 </POSTask>
