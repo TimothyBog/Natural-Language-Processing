@@ -2,19 +2,25 @@
 import re
 import sys
 
-# Better regex for complete dollar/cents expressions
+# Improved regex for better recall
 DOLLAR_REGEX = re.compile(r"""
 (
-    # $ followed by number, optional commas/decimals, optional million/billion/thousand
-    \$\d{1,3}(?:,\d{3})*(?:\.\d+)?(?:\s*(?:million|billion|thousand))?
+    # $ followed by number, with optional commas/decimals, maybe split across lines, maybe unit
+    \$\d{1,3}(?:,\d{3})*(?:\.\d+)?(?:\s*\n?\s*(?:million|billion|thousand))?
 
-    |   # number with unit and 'dollars'
+    |   # plain numbers with 'million/billion/thousand dollars' (allow singular dollar)
     \d+(?:\.\d+)?\s*(?:million|billion|thousand)?\s+dollars?
 
-    |   # number with 'cents'
+    |   # numbers with just unit and singular dollar
+    \d+(?:\.\d+)?\s*(?:million|billion|thousand)?\s+dollar
+
+    |   # numbers with 'cents'
     \d+(?:\.\d+)?\s+cents?
 
-    |   # word numbers + dollars/cents (e.g., "hundred dollars")
+    |   # year + dollars (like 1973 dollars)
+    \d{4}\s+dollars?
+
+    |   # word numbers + dollars/cents (catch singular & plural)
     (?:one|two|three|four|five|six|seven|eight|nine|ten|
        eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|
        twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|
@@ -37,6 +43,7 @@ def main():
         val = re.sub(r"[.,;:]+$", "", val)  # strip trailing punctuation
         matches.append(val)
 
+    # de-duplicate while preserving order
     seen, uniq = set(), []
     for m in matches:
         if m not in seen:
